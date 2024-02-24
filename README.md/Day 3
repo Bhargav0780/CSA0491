@@ -1,0 +1,7 @@
+17.Illustrate the deadlock avoidance concept by simulating Banker’s algorithm with C. 18 Construct a C program to simulate producer-consumer problem using semaphores.
+18.Design a C program to implement process synchronization using mutex locks.
+19.Construct a C program to simulate Reader-Writer problem using Semaphores.
+20.Develop a C program to implement worst fit algorithm of memory management.
+21.Construct a C program to implement best fit algorithm of memory management.
+22.Construct a C program to implement first fit algorithm of memory management.
+23.Design a C program to demonstrate UNIX system calls for file management.
